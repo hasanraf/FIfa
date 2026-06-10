@@ -1,17 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Caze TV BR" group-title="Sports",Caze TV BR (HD Fast)
+#EXTINF:-1 tvg-name="Caze TV BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cazetv_logo.png" group-title="Sports",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-name="ScheduleMaster 409" group-title="Sports",EZ sports
+#EXTINF:-1 tvg-name="ScheduleMaster 409" tvg-logo="https://cdn-icons-png.flaticon.com/512/747/747310.png" group-title="Sports",ScheduleMaster 409
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
 
-#EXTINF:-1 tvg-name="TyC Sports Live" group-title="Sports",TyC Sports Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb56381b6573648984cc3f78d4f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da46852db80148b6f4adafb8c2360625f5c98435ee3b24af5ffe80b44d06aa3ac1a4c9d7a58e68314c8c94de8d581469d41817ff716949ba28c8516e0f8ab479192761d733a0059dbea5b92c75abadb9e6c2a9403472c7c74d5d3587ad35efc23624ff1feb1df2f9f418fe18de011658e50d2865767aa12b8e34965dc579b9b9528602aadc514452fa1eea1b0365459b24bf4b8e0d17f7dd6a35a2807815ad12c2f3787ee8b3ab08344c6f873def45e143696c51edb85e4d7a6f0ac5a8c29cff0f19a164b5a2c5151d113f1cc2d9302f54c85e25f6150444fa8da72c185d25179226c8e9251d91654e88fd2cd8f406b84305b69e966d8490c2399673b32b67b8bef5606be2f04813a2ae81864d0309b9618b5f68bab5641f6b4a165f060e8b90fa88621a17f335407f3bf6c684c4279dff9754f575dc656efc7c5f17d6b59bb17ac7d519089615fa8e69f97135abe3488bc62fda774f5/97/1920x1080_5162480/index.m3u8
+#EXTINF:-1 tvg-name="TyC Sports Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TyC_Sports_logo.svg" group-title="Sports",TyC Sports Live
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/...
 
-#EXTINF:-1 tvg-name="TSN 2" group-title="Sports",TSN 2
+#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/TSN.svg/512px-TSN.svg.png" group-title="Sports",TSN 2
 https://tvsen7.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="ESPN" group-title="Sports",ESPN sports
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports",ESPN Sports
 https://y4mpwzd7.12703830.net:8443/hls/nessgjp115wr8.m3u8?s=oJrtg4eWoWnY2wCsRdvyrA&e=1781093369
-#EXTINF:-1 tvg-name="FIFA+" group-title="Sports",FIFA+
+
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/FIFA_Plus_logo.png" group-title="Sports",FIFA+
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/c2eb512a-c72f-4d4f-a36d-51b6660f2616/2.m3u8
