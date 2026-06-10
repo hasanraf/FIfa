@@ -15,6 +15,16 @@ https://live.elheddaftv.com:8081/elheddaf/index.mpd
 #EXTINF:-1 tvg-name="EA sports " tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/ea-sports-fc-logo-freelogovectors.net_-640x400.png" group-title="Sports",EA sport
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
 
+
+#EXTINF:-1 group-title="Sports",FOX Sports 2
+https://tvsen7.aynaott.com/foxsports2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Bangladesh",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1181200.m3u8
+
+#EXTINF:-1 group-title="Sports",T Sports HD
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://static.cdnlogo.com/logos/t/85/tsn-2.svg" group-title="Sports",TSN 2
 https://tvsen7.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
 
