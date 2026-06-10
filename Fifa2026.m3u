@@ -9,7 +9,7 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-name="Pecock tv" tvg-logo="" group-title="https://static.wikitide.net/avidwiki/thumb/b/b2/Peacock_logo_(2022-present).PNG/534px-Peacock_logo_(2022-present).PNG",Pecock tv 
 https://master.tucableip.com/ftvhd/index.m3u8
 
-#EXTINF:-1 tvg-name="Arabic tv" tvg-logo="" group-title="",Arabic fifa tv 
+#EXTINF:-1 tvg-name="Arabic tv" tvg-logo="https://thumbs.dreamstime.com/b/fifa-world-cup-host-saudi-arabia-trophy-fifa-world-cup-host-saudi-arabia-trophy-isolated-background-d-rendering-295717759.jpg" group-title="",Arabic fifa tv 
 https://live.elheddaftv.com:8081/elheddaf/index.mpd
 
 #EXTINF:-1 tvg-name="EA sports " tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/ea-sports-fc-logo-freelogovectors.net_-640x400.png" group-title="Sports",EA sport
