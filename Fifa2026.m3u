@@ -15,13 +15,13 @@ https://live.elheddaftv.com:8081/elheddaf/index.mpd
 #EXTINF:-1 tvg-name="EA sports " tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/ea-sports-fc-logo-freelogovectors.net_-640x400.png" group-title="Sports",EA sport
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
 
-#EXTINF:-1 tvg-id="foxsports2" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/FS2_logo_2015.svg" group-title="Sports",FOX Sports 2
+#EXTINF:-1 tvg-id="foxsports2" tvg-name="FOX Sports 2" tvg-logo="https://img.favpng.com/4/17/2/fox-sports-networks-sportsouth-television-png-favpng-rKpLcrpLDjRU2g9mU0kG12kCA_t.jpg" group-title="Sports",FOX Sports 2
 https://tvsen7.aynaott.com/foxsports2/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BTV_Logo.svg/512px-BTV_Logo.svg.png" group-title="Bangladesh",BTV
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" group-title="Bangladesh",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1181200.m3u8
 
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/T_Sports_logo.svg" group-title="Sports",T Sports HD
+#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSDP5d1cHnIEI_x_MRrA_m5YWMQHRX0ykQb7vUZ7dtgHB8fmUmwO7K0wQ&s" group-title="Sports",T Sports HD
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://static.cdnlogo.com/logos/t/85/tsn-2.svg" group-title="Sports",TSN 2
