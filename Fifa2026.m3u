@@ -1,18 +1,5 @@
 #EXTM3U
-
-
-
-#EXTINF:-1 tvg-name="FIFA 2026 Low" group-title="Toffee Live",FIFA 2026 (Low)
-#EXTVLCOPT:http-cookie=Expires=1781284371~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fwjP2n5Nmo5AwokaLeqqxz-knbbI9zTSZ9S98k8AS2Po19yeh3lwPeFJ-zvN7iCihPrDTNE-DmViO9_3RMvH0I
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/2/master_1200.m3u8
-
-#EXTINF:-1 tvg-name="FIFA 2026 Medium" group-title="Toffee Live",FIFA 2026 (Medium)
-#EXTVLCOPT:http-cookie=Expires=1781284371~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fwjP2n5Nmo5AwokaLeqqxz-knbbI9zTSZ9S98k8AS2Po19yeh3lwPeFJ-zvN7iCihPrDTNE-DmViO9_3RMvH0I
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/1/master_2500.m3u8
-
-#EXTINF:-1 tvg-name="FIFA 2026 High" group-title="Toffee Live",FIFA 2026 (High)
-#EXTVLCOPT:http-cookie=Expires=1781284371~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fwjP2n5Nmo5AwokaLeqqxz-knbbI9zTSZ9S98k8AS2Po19yeh3lwPeFJ-zvN7iCihPrDTNE-DmViO9_3RMvH0I
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_4000.m3u8
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_4000.m3u8|Cookie=Expires=1781284371~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fwjP2n5Nmo5AwokaLeqqxz-knbbI9zTSZ9S98k8AS2Po19yeh3lwPeFJ-zvN7iCihPrDTNE-DmViO9_3RMvH0I
 
 
 
