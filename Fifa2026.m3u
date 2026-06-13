@@ -2,9 +2,8 @@
 #EXTINF:-1 tvg-name="Caze TV BR" tvg-logo="https://imgs.search.brave.com/jWJ5K3r-oUiHF-19WNoZxr-S8YKgAyjKvuOA0ziHamk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/c3BuZy5vcmcvZG93/bmxvYWQvY2F6ZXR2/L2NhemUtdHYtNTEy/LnBuZw" group-title="Sports",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-name="TyC Sports Live" tvg-logo="https://images.seeklogo.com/logo-png/34/2/tyc-sports-logo-png_seeklogo-340604.png" group-title="Sports",TyC Sports Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb56381b6573648984cc3f78d4f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da46852db80148b6f4adafb8c2360625f5c98435ee3b24aa6aee55d418e38a4ac1a4cc77a58e68314c8c94dea8581469912d072f21c9d92f4dedb42e0f8ab479192761d733a0059dbea5b92c75abadb9e6c2a9403472c7c74d5d3587ad35efc23624ff1feb1df2f9f418fe18de011658e50d2865767aa12b8e34965dc579b9b9528602aadc514452fa1eea1b0365459b24bf4b8e0d17f7dd6a35a2807815ad12c2f3787ee8b3ab08344c6f873def45e143696c51edb85e4d7a6f0ac5a8c29cff0f19a164b5a2c5151d113f1cc2d9302f54c85e25f6150444fa8da72c185d25179226c8e9251d91654e88fd2cd8f406b84305b69e966d8490c2399673b32b67b8bef5606be2f04813a2ae81864d0309b9618b5f68bab5641f6b4a165f060e8b90fa88621a17f335407f3bf6c684c4279dff9754f575dc656efc7c5f17d6a51b5ae2d9f4ea3fdb65fc09ec07690596f649095b73345a96401/199/1920x1080_5162480/index.m3u8
-
+#EXTINF:-1 tvg-name="Soco Live" tvg-logo="" group-title="Sports",Soco Live
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781381601-0-0-e42e47885464b61e597f64b7b25e6a7b
 #EXTINF:-1 tvg-name="Somoy tv" tvg-logo="https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png" group-title="",Somoytv 
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
