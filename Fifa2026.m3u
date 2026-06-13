@@ -11,19 +11,20 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="China tv " tvg-logo="" group-title="Sports",China Tv
-https://live05.msdht.app/live/87547578.m3u8
+https://live05.msdht.app/live/87547578.m3u8#EXTM3U
 
-#EXTINF:-1 tvg-id="foxsports2" tvg-name="FOX Sports 2" tvg-logo="https://img.favpng.com/4/17/2/fox-sports-networks-sportsouth-television-png-favpng-rKpLcrpLDjRU2g9mU0kG12kCA_t.jpg" group-title="Sports",FOX Sports 2
-https://tvsen7.aynaott.com/foxsports2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="FOX Sports" group-title="Sports",FOX Sports
+http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Bangladesh_Television_logo.svg" group-title="Bangladesh",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-name="Match TV" group-title="Sports",Match TV
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSDP5d1cHnIEI_x_MRrA_m5YWMQHRX0ykQb7vUZ7dtgHB8fmUmwO7K0wQ&s" group-title="Sports",T Sports HD
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="JOJ Sport" group-title="Sports",JOJ Sport
+https://st02-1.iptv.joj.sk/ac/3442b14246831abd7c29c9b5d7682987/1781377889314/b4cd4952d7c21acf776c6125a8a547f23/dna-110-tv-pc/hls/500v259.m3u8
 
-#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://static.cdnlogo.com/logos/t/85/tsn-2.svg" group-title="Sports",TSN 2
-https://tvsen7.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="DSports" group-title="Sports",DSports
+https://wp9xqedt.fubo18.com/dsports/mono.m3u8?token=90898077beab00615490aabf211a6749a9d115ad-c-1781393637-1781375637
 
-#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://media.gettyimages.com/id/2225682459/photo/philadelphia-pa-a-close-up-view-of-the-fifa-logo-on-the-fifa-world-cup-countdown-clock-for.jpg?s=612x612&w=0&k=20&c=tc959J_tuesZWi3fnh1edkiv62OOjkvVXJXnBE7Q5X4=" group-title="Sports",FIFA+
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/c2eb512a-c72f-4d4f-a36d-51b6660f2616/2.m3u8
+#EXTINF:-1 tvg-name="TVP Sport" group-title="Sports",TVP Sport
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
