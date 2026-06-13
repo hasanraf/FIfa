@@ -10,8 +10,8 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="ptv tv" tvg-logo="" group-title="",ptv tv 
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="EA sports " tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/ea-sports-fc-logo-freelogovectors.net_-640x400.png" group-title="Sports",EA sport
-https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
+#EXTINF:-1 tvg-name="China tv " tvg-logo="" group-title="Sports",China Tv
+https://live05.msdht.app/live/87547578.m3u8
 
 #EXTINF:-1 tvg-id="foxsports2" tvg-name="FOX Sports 2" tvg-logo="https://img.favpng.com/4/17/2/fox-sports-networks-sportsouth-television-png-favpng-rKpLcrpLDjRU2g9mU0kG12kCA_t.jpg" group-title="Sports",FOX Sports 2
 https://tvsen7.aynaott.com/foxsports2/tracks-v1a1/mono.ts.m3u8
